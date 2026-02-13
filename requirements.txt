@@ -78,6 +78,7 @@ pandocfilters==1.5.1
 parso==0.8.5
 patsy==1.0.2
 pillow==12.1.0
+pip
 platformdirs==4.5.1
 plotly==6.5.0
 prometheus_client==0.24.1
@@ -105,7 +106,7 @@ rpds-py==0.30.0
 scipy==1.17.0
 seaborn==0.13.2
 Send2Trash==2.1.0
-simpy==4.1.2
+simpy
 six==1.17.0
 smmap==5.0.2
 soupsieve==2.8.3
